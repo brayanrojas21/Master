@@ -1,0 +1,9 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.1",
+        "shuchkin/simplexls": "^0.10.3",
+        "shuchkin/simplexlsx": "^1.0",
+        "shuchkin/simplexlsxgen": "^1.4",
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
